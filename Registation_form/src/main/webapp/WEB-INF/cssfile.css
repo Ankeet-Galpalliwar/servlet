@@ -1,0 +1,52 @@
+body{
+    background-image:url('image0.jpg');
+   background-color: blanchedalmond;
+   
+    
+     background-repeat:no-repeat;
+     background-size: 100% 500px;
+}
+form{
+    background-color: red;
+}
+fieldset{
+   
+    background-image:url('back.jpg'); 
+    background-size: 100% 100%;  
+   
+    padding:20px;
+    width: max-content;
+}
+    
+
+
+.topnav {
+   
+    overflow: hidden;
+  }
+  
+  
+ .topnav a {
+    float: left;
+    color: hsl(0, 0%, 95%);
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  .topnav a.abc{
+    float: right;
+    
+   
+   
+  }
+  .topnav a.z{
+    color: rgb(237, 109, 11);
+  }
